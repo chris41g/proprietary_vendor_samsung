@@ -111,4 +111,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/quincyatt/proprietary/etc/thermald.conf:system/etc/thermald.conf \
 	vendor/samsung/quincyatt/proprietary/lib/libdsm.so:system/lib/libdsm.so \
 	vendor/samsung/quincyatt/proprietary/lib/libthermal_mitigation_fusion.so:system/lib/libthermal_mitigation_fusion.so \
-	vendor/samsung/quincyatt/proprietary/lib/libthermal_mitigation.so:system/lib/libthermal_mitigation.so
+	vendor/samsung/quincyatt/proprietary/lib/libthermal_mitigation.so:system/lib/libthermal_mitigation.so \
+	vendor/samsung/quincyatt/proprietary/etc/wifi/nvram_mfg.txt_semcove:system/etc/wifi/nvram_mfg.txt_semcove \
+	vendor/samsung/quincyatt/proprietary/etc/wifi/nvram_net.txt_semcove:system/etc/wifi/nvram_net.txt_semcove
+
